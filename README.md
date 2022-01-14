@@ -8,16 +8,6 @@ screenshot: assets/screens/screen.gif
 email: ayrongabriel@gmail.com
 -->
 
-<!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -111,19 +101,7 @@ static const border = Color(0xFFE1E2E3);
 
 ## Screenshots
 
-<img src='assets/screens/0.jpg' width=350>
-<img src='assets/screens/1.jpg' width=350>
-<img src='assets/screens/2.jpg' width=350>
-<img src='assets/screens/3.jpg' width=350>
-<img src='assets/screens/4.jpg' width=350>
-<img src='assets/screens/5.jpg' width=350>
-<img src='assets/screens/cat.jpg' width=350>
-<img src='assets/screens/cat-1.jpg' width=350>
-<img src='assets/screens/cat-2.jpg' width=350>
-<img src='assets/screens/drawer.jpg' width=350>
-<img src='assets/screens/favorites.jpg' width=350>
-<img src='assets/screens/settings.jpg' width=350>
-
+<img src='assets/screens/0.jpg' width=350> <img src='assets/screens/1.jpg' width=350> <img src='assets/screens/2.jpg' width=350> <img src='assets/screens/3.jpg' width=350> <img src='assets/screens/4.jpg' width=350> <img src='assets/screens/5.jpg' width=350> <img src='assets/screens/cat.jpg' width=350> <img src='assets/screens/cat-1.jpg' width=350> <img src='assets/screens/cat-2.jpg' width=350> <img src='assets/screens/drawer.jpg' width=350> <img src='assets/screens/favorites.jpg' width=350> <img src='assets/screens/settings.jpg' width=350> 
 <br>
 <hr>
 <br>
