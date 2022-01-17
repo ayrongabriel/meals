@@ -1,14 +1,13 @@
 <!--
-repo name: BEST-README
-description: An awesome README template to jumpstart your projects!
+repo name: meals
+description: Aplicativo de Cardápio de receitas, construído durante o estudo do módulo de Navegação & Múltiplas Telas - Flutter
 github name:  ayrongabriel
-link: https://github.com/ayrongabriel
+link: https://github.com/ayrongabriel/meals
 logo path: assets/images/logo.png
 screenshot: assets/screens/screen.gif
 email: ayrongabriel@gmail.com
 -->
 
-<!-- PROJECT LOGO -->
 <br />
 <p align="center">
     <a href="LINK">
@@ -91,17 +90,16 @@ static const border = Color(0xFFE1E2E3);
 
 ## Screenshots
 
-<img src='assets/screens/0.jpg' width=350> <img src='assets/screens/1.jpg' width=350> <img src='assets/screens/2.jpg' width=350> <img src='assets/screens/3.jpg' width=350> <img src='assets/screens/4.jpg' width=350> <img src='assets/screens/5.jpg' width=350> <img src='assets/screens/cat.jpg' width=350> <img src='assets/screens/cat-1.jpg' width=350> <img src='assets/screens/cat-2.jpg' width=350> <img src='assets/screens/drawer.jpg' width=350> <img src='assets/screens/favorites.jpg' width=350> <img src='assets/screens/settings.jpg' width=350> 
+<img src='assets/screens/0.jpg' width=200> <img src='assets/screens/1.jpg' width=200> <img src='assets/screens/2.jpg' width=200> <img src='assets/screens/3.jpg' width=200> <img src='assets/screens/4.jpg' width=200> <img src='assets/screens/5.jpg' width=200> <img src='assets/screens/cat.jpg' width=200> <img src='assets/screens/cat-1.jpg' width=200> <img src='assets/screens/cat-2.jpg' width=200> <img src='assets/screens/drawer.jpg' width=200> <img src='assets/screens/favorites.jpg' width=200> <img src='assets/screens/settings.jpg' width=200> 
 <hr>
 
 ## Gif
 <p align="center">
-<img src='assets/screens/screen.gif' width=350>
+<img src='assets/screens/screen.gif' width=200>
 </p>
 
 <hr>
 
-<!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
